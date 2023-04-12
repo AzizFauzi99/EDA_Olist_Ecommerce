@@ -7,3 +7,6 @@
 * Perusahaan ingin mengetahui apakah produk yang paling banyak dipesan menghasilkan total sales yang besar pula
 * Perusahaan ingin mengetahui pertumbuhan order dari 10 produk yang paling laris
 * Perusahaan ingin mengetahui tren total pendapatan penjualan bulanan dari 10 produk yang paling laris
+
+## Dataset:
+[Olist Dataset](https://drive.google.com/drive/folders/1y-or_Rba1ambWkkNzhYKtRHRwC7g0A5n)
