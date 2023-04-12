@@ -10,3 +10,6 @@
 
 ## Dataset:
 [Olist Dataset](https://drive.google.com/drive/folders/1y-or_Rba1ambWkkNzhYKtRHRwC7g0A5n)
+
+## Medium 
+[Medium](https://medium.com/@aziz48710/data-cleaning-dan-eda-pada-olist-ecommerce-79301fa6856e)
